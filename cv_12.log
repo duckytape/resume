@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.7.3)  17 JUL 2017 18:27
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.7.3)  19 JUL 2017 09:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1294,8 +1294,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 347--351
 . This font family consists of the following shapes:
 .................................................
 
-Overfull \hbox (80.55997pt too wide) in paragraph at lines 361--372
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
+[]\EU1/Lato-Lig(0)/m/sc/10 Committee/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+[]\EU1/Lato-Lig(0)/m/sc/10 Workshop
  []
 
 .................................................
