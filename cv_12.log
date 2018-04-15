@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.6)  15 APR 2018 18:02
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.6)  15 APR 2018 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1321,22 +1321,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . This font family consists of the following shapes:
 .................................................
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--407
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
 []\EU1/Lato-Lig(0)/m/sc/10 Conference/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--407
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
 \EU1/Lato-Lig(0)/m/sc/10 Minconf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--411
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 []\EU1/Lato-Lig(0)/m/sc/10 Committee/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--413
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
 []\EU1/Lato-Lig(0)/m/sc/10 Workshop
  []
 
@@ -1349,7 +1349,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 412--413
 . This font family consists of the following shapes:
 .................................................
 
-Underfull \hbox (badness 2486) in paragraph at lines 419--425
+Underfull \hbox (badness 2486) in paragraph at lines 422--428
 []\EU1/Lato-Lig(0)/m/sc/10 • Guide Dogs Association • Unite
  []
 
@@ -1441,24 +1441,24 @@ Underfull \hbox (badness 2486) in paragraph at lines 419--425
 . 
 . This font family consists of the following shapes:
 .................................................
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 448.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 451.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 448.
+(Font)              size <5> substituted on input line 451.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 448.
+(Font)              size <5> substituted on input line 451.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 448.
+(Font)              <11> on input line 451.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 448.
+(Font)              <7.69997> on input line 451.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 448.
+(Font)              <5.5> on input line 451.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 448.
+(Font)              size <5> substituted on input line 451.
 
 .................................................
 . fontspec info: "defining-font"
@@ -1692,12 +1692,12 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 . 
 . This font family consists of the following shapes:
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 601.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 603.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 601.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 603.
  (./cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 601.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 601.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 603.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 603.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1706,12 +1706,12 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 601.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 603.
  ) 
 Here is how much of TeX's memory you used:
  21402 strings out of 493918
  395896 string characters out of 6150564
- 463501 words of memory out of 5000000
+ 464504 words of memory out of 5000000
  24496 multiletter control sequences out of 15000+600000
  7083 words of font info for 67 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
