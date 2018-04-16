@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.6)  16 APR 2018 15:16
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.6)  16 APR 2018 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -849,6 +849,12 @@ isodate: babel.sty, (n)german.sty have not been loaded
 . 
 . <->"[fonts/raleway/Raleway-ExtraLight]/ICU:script=latn;language=DFLT;+smcp;"
 .................................................
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
 \g_fontspec_family_Lato-Hai_int=\count150
 .................................................
 . fontspec info: "defining-font"
@@ -887,25 +893,6 @@ isodate: babel.sty, (n)german.sty have not been loaded
 . * 'small caps' with NFSS spec.:
 . <->"[fonts/raleway/Raleway-Medium]/ICU:script=latn;language=DFLT;+smcp;"
 .................................................
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 35.
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 35.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 35.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 35.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 35.
-
 
 LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
 (Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 47.
@@ -1114,8 +1101,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 146.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 146.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1382,20 +1367,16 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 365.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 365.
 
 
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
-
-
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 365.
  ) 
 Here is how much of TeX's memory you used:
- 21386 strings out of 493918
- 395511 string characters out of 6150564
- 464376 words of memory out of 5000000
- 24487 multiletter control sequences out of 15000+600000
- 6140 words of font info for 60 fonts, out of 8000000 for 9000
+ 21376 strings out of 493918
+ 395239 string characters out of 6150564
+ 464503 words of memory out of 5000000
+ 24475 multiletter control sequences out of 15000+600000
+ 6127 words of font info for 59 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  53i,12n,90p,10382b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
 

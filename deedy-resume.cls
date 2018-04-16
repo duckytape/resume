@@ -42,10 +42,15 @@
 \setlength{\TPHorizModule}{0.01\paperwidth} % Sets the units for the horizontal position used in the \begin{textblock} argument
 \setlength{\TPVertModule}{0.01\paperwidth} % Sets the units for the vertical position used in the \begin{textblock} argument
 \newcommand{\lastupdated}{ % Create a new command for printing the Last Updated text
-\begin{textblock}{25}(75,2) % The position of the Last Updated text on the page (75% of the page across, 2% down)
+\begin{textblock}{25}(73,7) % The position of the Last Updated text on the page (75% of the page across, 2% down)
 \color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont % Text styling of the text
-Last Updated on \today % Last Updated text
+%Last Updated on \today
+\begin{flushright}
+\urlstyle{same}\url{https://linkedin.com/in/eloiseducky} \\ % Your website, LinkedIn profile or other web address
+\href{mailto:ducky@fastmail.com}{ducky@fastmail.com} | +49 160 9053 6672% Last Updated text
+\end{flushright}
 \end{textblock}}
+
 
 %----------------------------------------------------------------------------------------
 %	MAIN HEADING COMMAND
