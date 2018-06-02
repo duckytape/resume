@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.6)  2 JUN 2018 12:00
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.6)  2 JUN 2018 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1685,12 +1685,12 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 . 
 . This font family consists of the following shapes:
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 607.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 606.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 607.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 606.
  (./cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 607.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 607.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 606.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 606.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1699,7 +1699,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 607.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 606.
  ) 
 Here is how much of TeX's memory you used:
  21405 strings out of 493918
