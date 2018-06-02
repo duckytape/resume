@@ -6,8 +6,10 @@ Presentations to add:
 * OpenGLAM Presentation
 * AR with Open Source
 * Etching & Gulasch
+
 Experience to add:
 * 
+
 Projects to add:
 * 
 
