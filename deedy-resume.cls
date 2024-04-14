@@ -37,7 +37,7 @@
 %----------------------------------------------------------------------------------------
 
 \usepackage[absolute]{textpos} % Required for positioning the Last Updated text at the top right of the page
-\usepackage[UKenglish]{isodate} % Prints the Last Updated date in UK English format
+\usepackage[UKenglish]{isodateo} % Prints the Last Updated date in UK English format
 
 \setlength{\TPHorizModule}{0.01\paperwidth} % Sets the units for the horizontal position used in the \begin{textblock} argument
 \setlength{\TPVertModule}{0.01\paperwidth} % Sets the units for the vertical position used in the \begin{textblock} argument
@@ -59,8 +59,8 @@
 \newcommand{\namesection}[3]{ % Defines the command for the main heading
 \centering{ % Center the name
 \fontsize{20pt}{40pt} % Font size
-\fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont #2 % First name font
-\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #1 % Last name font
+\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2 % First name font
+\fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont #1 % Last name font
 } \\[5pt] % Whitespace between the name and contact information
 \centering{ % Center the contact information
 \color{headings} % Use the headings color
@@ -77,7 +77,7 @@
 
 \titlespacing{\section}{0pt}{0pt}{0pt} % Removes the spacing around the main section titles
 \titlespacing{\subsection}{0pt}{0pt}{0pt} % Removes the spacing around the subsections
-\newcommand{\sectionspace}{\vspace{8pt}} % Defines a command to add a set amount of space after sections and subsections
+\newcommand{\sectionspace}{\vspace{10pt}} % Defines a command to add a set amount of space after sections and subsections
 
 \titleformat{\section}{ % Customize the large section titles
 \color{headings}\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{16pt}{24pt}\selectfont\bfseries\uppercase}{}{0em}{}

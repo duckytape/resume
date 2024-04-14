@@ -1,0 +1,105 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2020.5.8)  8 MAY 2020 23:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**everyshi.ins
+(./everyshi.ins
+LaTeX2e <2019-10-01> patch level 1
+File: everysel.ins 1998/06/08 v2.03 Installation script for EveryShipout Packag
+e (MS)
+(/usr/share/texmf-dist/tex/latex/base/docstrip.tex
+\blockLevel=\count80
+\emptyLines=\count81
+\processedLines=\count82
+\commentsRemoved=\count83
+\commentsPassed=\count84
+\codeLinesPassed=\count85
+\TotalprocessedLines=\count86
+\TotalcommentsRemoved=\count87
+\TotalcommentsPassed=\count88
+\TotalcodeLinesPassed=\count89
+\NumberOfFiles=\count90
+\inFile=\read1
+\inputcheck=\read2
+\off@0=\count91
+\off@1=\count92
+\off@2=\count93
+\off@3=\count94
+\off@4=\count95
+\off@5=\count96
+\off@6=\count97
+\off@7=\count98
+\off@8=\count99
+\off@9=\count100
+\off@10=\count101
+\off@11=\count102
+\off@12=\count103
+\off@13=\count104
+\off@14=\count105
+\off@15=\count106
+\@maxfiles=\count107
+\@maxoutfiles=\count108
+
+Utility: `docstrip' 2.5g <2018/05/03>
+English documentation    <2018/05/03>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+)
+***********************************************************
+*
+* The everyshi distribution contains these files:
+*
+*   everyshi.asc
+*   everyshi.dtx
+*   everyshi.dvi
+*   everyshi.ins
+*   everyshi.bug
+*
+* If you receive only some of these files from someone, complain!
+*
+***********************************************************
+
+Generating file(s) ./everyshi.sty ./everyshi.drv 
+\openout0 = `./everyshi.sty'.
+
+\openout1 = `./everyshi.drv'.
+
+
+Processing file everyshi.dtx (package) -> everyshi.sty
+                             (driver) -> everyshi.drv
+Lines  processed: 406
+Comments removed: 312
+Comments  passed: 39
+Codelines passed: 48
+
+***********************************************************
+*
+* To finish the installation you have to move the following
+* style files into a directory searched by TeX:
+*
+*   everyshi.sty
+*
+* To produce the documentation run the file everysel.dtx
+* through LaTeX.
+*
+* Happy TeXing
+***********************************************************
+ ) 
+Here is how much of TeX's memory you used:
+ 319 strings out of 492483
+ 3177 string characters out of 6134980
+ 71581 words of memory out of 5000000
+ 4895 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 11i,0n,15p,123b,132s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.

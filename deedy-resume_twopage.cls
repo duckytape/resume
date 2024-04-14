@@ -47,7 +47,7 @@
 %Last Updated on \today
 \begin{flushright}
 \urlstyle{same}\url{https://linkedin.com/in/eloiseducky} \\ % Your website, LinkedIn profile or other web address
-\href{mailto:ducky@fastmail.com}{ducky@fastmail.com} | +49 162 2891 889% Last Updated text
+\href{mailto:ducky@fastmail.com}{ducky@fastmail.com} | +49 1573 259 8092% Last Updated text
 \end{flushright}
 \end{textblock}}
 
