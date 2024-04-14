@@ -37,7 +37,7 @@
 %----------------------------------------------------------------------------------------
 
 \usepackage[absolute]{textpos} % Required for positioning the Last Updated text at the top right of the page
-\usepackage[UKenglish]{isodate} % Prints the Last Updated date in UK English format
+\usepackage[UKenglish]{isodateo} % Prints the Last Updated date in UK English format
 
 \setlength{\TPHorizModule}{0.01\paperwidth} % Sets the units for the horizontal position used in the \begin{textblock} argument
 \setlength{\TPVertModule}{0.01\paperwidth} % Sets the units for the vertical position used in the \begin{textblock} argument
